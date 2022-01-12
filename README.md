@@ -20,7 +20,7 @@
   <a href="https://github.com/AdityaV025/Munche/pulls"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square"></a>
 </p>
 
-FoodFlash id a food ordering android application developed in Flutter (Frontend) and Firebase (Backend). It is a platform that allows restaurants to resell unsold products from pastries and hotels (dishes / cakes ..) and gives the chance to it's users to buy those products at a cheaper price.
+FoodFlash is a food ordering android application developed in Flutter (Frontend) and Firebase (Backend). It is a platform that allows restaurants, pastries and hotels to resell unsold products (plats ..) and gives the chance to it's users to buy those products at a cheaper price.
 
 # User Interface
 
