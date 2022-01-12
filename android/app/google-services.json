@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "182170353582",
+    "firebase_url": "https://foodflashproject-default-rtdb.firebaseio.com",
+    "project_id": "foodflashproject",
+    "storage_bucket": "foodflashproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182170353582:android:0df0c43930dadd1656d23f",
+        "android_client_info": {
+          "package_name": "com.example.foodflashapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182170353582-m5i4uuob3dcau92gaflonq20obeef9df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodflashapp",
+            "certificate_hash": "675fab80c9e530555194d7668d92bf1167cc00fd"
+          }
+        },
+        {
+          "client_id": "182170353582-7f4r4g6uupd5hvbc724pvlmhums4stjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAECOX9WvqmM9nc9-L8kcOqQd3cAtnUzQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182170353582-7f4r4g6uupd5hvbc724pvlmhums4stjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
