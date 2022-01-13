@@ -77,7 +77,7 @@ Some of the features of FoodFlash app are:
 1. Clone or download the repository :
 
 ```shell
-git clone https://github.com/wassimderbel-hub/Foodflash.git
+git clone https://github.com/wassimderbel-hub/FoodFlash.git
 ```
 
 2. Import the project into Android Studio.
