@@ -15,12 +15,11 @@
 <h1 align="center"> FoodFlash Android App </h1>
 
 <p align="center">
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-green"></a>
   <a href="https://github.com/AdityaV025/Munche/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
   <a href="https://github.com/AdityaV025/Munche/pulls"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square"></a>
 </p>
 
-FoodFlash is a food ordering android application developed in Flutter (Frontend) and Firebase (Backend). It is a platform that allows restaurants, pastries and hotels to resell unsold products (plats ..) and gives the chance to it's users to buy those products at a cheaper price.
+FoodFlash is a food ordering android application developed with Flutter (Frontend) and Firebase (Backend). It is a platform that allows restaurants, pastries and hotels to resell unsold products (plats ..) and gives the chance to it's users to buy those products at a cheaper price.
 
 # User Interface
 
