@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:foodflash/src/screens/Welcome/welcome_screen.dart';
 import 'package:foodflash/src/screens/splash.dart';
 import 'package:firebase_core/firebase_core.dart';
-
+//here we initialize our app on firebase
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Colors.blueAccent,
       ),
-      home: AnimatedSplashScreen(),
+      home: AnimatedSplashScreen(),   //our first page is the splash screen
     );
   }
 }
